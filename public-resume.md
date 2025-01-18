@@ -1,4 +1,4 @@
-NAME: EDUARDO BORJAS                                                                                                                                  
+NAME: EDUARDO BORJAS                                                                                                                              
 
 CAREER GOALS
 A seasoned CISSP professional seeking to leverage extensive expertise in IT, cybersecurity, risk management, and privacy compliance. Proven track record in advising global C-suite executives on cost-effective GRC solutions and building compliance frameworks (SOC-2, ISO 27001, HITRUST, GDPR, PDPA, CCPA). Skilled in driving transformational leadership, bridging compliance gaps, and delivering actionable, assessment-ready compliance programs that align with organizational objectives. 
@@ -62,6 +62,7 @@ LANGUAGE SKILLS
 
 LINKEDIN
 	https://www.linkedin.com/in/eduardo-borjas-98355a30/ 
-
+GITHUB
+    Github: https://github.com/fast-eb/first_gh/blob/main/public-resume.md 
 
 REFERENCES (Upon Request)
