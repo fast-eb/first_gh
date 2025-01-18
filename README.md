@@ -1,2 +1,2 @@
 # first_gh
-Simple open repo.
+Simple public profile repo.
